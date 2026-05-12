@@ -1,0 +1,420 @@
+@article{cesnaite2026manypipelines,
+  title   = {Many Pipelines, One Dataset: Analytic Flexibility and Its Impact in EEG Research},
+  author  = {
+Cesnaite, Elena and
+Algermissen, Johannes and
+Vinding, Mikkel C. and
+Vitale, Andrea and
+Pascarella, Annalisa and
+Fischer, Nastassja L. and
+Yang, Yu-Fang and
+Tr{\"u}butschek, Darinka and
+Gianelli, Claudia and
+Marshall, Charlotte R. and
+Abbasi, Omid and
+Adamovich, Timofey and
+Adel, Lena and
+Agarwal, Nikita and
+Aguado-L{\'o}pez, Blanca and
+Ajmeria, Uma and
+Al, Esra and
+Aldeen, Hannah and
+Alejandro, Ricardo J. and
+Alenina, Evgeniia A. and
+Alex, Meera and
+Ambrosini, Ettore and
+Angus, Douglas J. and
+Anzolin, Alessandra and
+Appelhoff, Stefan and
+Arcara, Giorgio and
+Arkhipova, Yana and
+Azanova, Maria and
+Bagattini, Chiara and
+Baker, Daniel H. and
+Bamberg, Christoph and
+Barbero, Francesca M. and
+Battal, Ceren and
+Bauer, Anna-Katharina R. and
+Bayram, Burcu and
+Baz{\'a}n, Paulo R. and
+Beale, Henry and
+Belanova, Elena and
+Bergstr{\"o}m, Zara M. and
+Bernardi, Giulio and
+Berto, Martina and
+Betta, Monica and
+Blanchette, Isabelle and
+Bortoletto, Marta and
+Bottari, Davide and
+Braboszcz, Claire and
+Bradford, Daniel E. and
+Brooks, Joseph L. and
+Brunskill, Chloe M. and
+Bublatzky, Florian and
+B{\"u}chel, Daniel and
+Calce, Roberta P. and
+Capizzi, Mariagrazia and
+Cassani, Raymundo and
+Castellanos, Mar{\'\i}a Concepci{\'o}n and
+Cattaneo, Luigi and
+Cerda-Company, Xim and
+Chen, Lixiang and
+Chen, Xinyuan and
+Chen, Yiyu and
+Choo, Yoojeong and
+Hu, Chuan-Peng and
+Chugani, Karan and
+Cichy, Radoslaw Martin and
+Cimrov{\'a}, Barbora and
+Ciranka, Simon and
+Civier, Oren and
+Cogoni, Carlotta and
+Coll, Michel-Pierre and
+Coloigner, Julie and
+Conejero, Angela and
+Constant, Martin and
+Corona-Gonz{\'a}lez, C{\'e}sar E. and
+Criscuolo, Antonio and
+Cruse, Damian and
+Cury, Claire and
+Czeszumski, Artur and
+Dahl, Martin J. and
+Davidson, Matthew and
+de Vries, Ingmar E. J. and
+del Castillo, M. Dolores and
+DeLuca, Vincent and
+Demarchi, Gianpaolo and
+Desender, Kobe and
+Dias, Marcelo and
+Waller, Darcy and
+Dietz, Martin and
+Dimigen, Olaf and
+Ding, Hao and
+Dong, Li and
+Drijvers, Linda and
+Drisdelle, Brandi Lee and
+Duma, Gian Marco and
+Dumas, Guillaume and
+Ehinger, Benedikt and
+Emmendorfer, Alexandra K. and
+Enge, Alexander and
+Evas, Stefanie and
+Fedele, Tommaso and
+Federici, Alessandra and
+Feld, Gordon B. and
+Fink, Lauren K. and
+Fischer, Shai and
+Fl{\'o}, Emilia and
+Formica, Silvia and
+Forschack, Norman and
+Forster, Bettina and
+Franz, Marcel and
+Franzen, L{\'e}on and
+Fry, Cassidy M. and
+Galvez-Pol, Alejandro and
+Garc{\'\i}a-L{\'a}zaro, Haydee G. and
+Garc{\'\i}a Alanis, Jos{\'e} Carlos and
+Garrido-V{\'a}squez, Patricia and
+Gerdfeldter, Billy and
+Gerike, Georgia and
+Gippert, Magdalena and
+Gonz{\'a}lez-Garc{\'\i}a, Carlos and
+Gordillo, Dario and
+Grabowska, Anna and
+Greenwood, Lisa-Marie and
+Griffiths, Benjamin J. and
+Grollero, Demetrio and
+Gross, Joachim and
+Gubler, Dani{\`e}le A. and
+Guilleminot, Pierre and
+G{\"u}ler, Berna and
+Gundlach, Christopher and
+G{\"u}nseli, Eren and
+Guo, Mingqian and
+G{\"u}th, Malte R. and
+Haciahmet, C{\'e}line and
+Hadas, Itay and
+H{\"a}m{\"a}l{\"a}inen, Jarmo and
+Han, Sizhu and
+Harris, Anthony M. and
+Hassan, Mahmoud and
+Haufe, Stefan and
+Heinsfeld, Anibal S. and
+Herholz, Peer and
+Hervault, Mario and
+Hill, Aron T. and
+Hodapp, Alice and
+Hommelsen, Maximilian and
+Honcamp, Hanna and
+Hosang, Thomas J. and
+Hsu, Chun-Hsien and
+Hsu, Tzu-Yu and
+Huang, Changrun and
+Huber-Huber, Christoph and
+Hughes, Matthew and
+Ibanez, Agustin and
+Iravani, Behzad and
+Isenburg, Kylie and
+Jack, Bradley N. and
+Jamshidi Idaji, Mina and
+Jefsen, Oskar H. and
+Jeong, El and
+Jiang, Fang and
+Joechner, Ann-Kathrin and
+Johnson, Matthew R. and
+Jung, Ki-Young and
+Kaboodvand, Neda and
+Kaiser, Daniel and
+Kałamała, Patrycja and
+Kang, Taeho and
+Kapralov, Nikolai and
+Karimi-Rouzbahani, Hamid and
+Kegler, Mikolaj and
+Kelley, Nicholas J. and
+Kern, Simon and
+Kerr{\'e}n, Casper and
+Kim, Songhee and
+Kiseleva, Alina and
+Klatt, Laura-Isabelle and
+Klotzsche, Felix and
+Kluger, Daniel S. and
+K{\"o}nig, Peter and
+Kopp, Bruno and
+Kosciessa, Julian Q. and
+Kosilo, Maciej and
+Kotchoubey, Boris and
+Kouara, Layla and
+Krewinkel, Sander and
+Kroczek, Leon O. H. and
+K{\"u}hrt, Corinna and
+Lago, Sara and
+Lamo{\v{s}}, Martin and
+Langer, Nicolas and
+Lazurenko, Dmitry and
+Le Denmat, Pierre and
+Lees, Ty and
+Lehmann, Tim and
+Lenc, Tomas and
+Lenoir, C{\'e}dric and
+Li, Wanru and
+Li, Zefeng and
+Liesefeld, Anna M. and
+Liesefeld, Heinrich R. and
+Likhanov, Maxim and
+Lintz, Evan N. and
+Lioi, Giulia and
+Litvak, Vladimir and
+Liu, Xiaoyi and
+Liu, Yikang and
+Lo, Yu-Hui and
+L{\'o}pez-Caneda, Eduardo and
+L{\'o}pez-Garc{\'\i}a, David and
+Lorenz, Corinna and
+L{\"o}w, Andreas and
+Lu, Runhao and
+Lu, Zitong and
+Luque, Alicia and
+Lydon-Staley, David and
+MacGregor, Oskar and
+Maffei, Antonio and
+Maier, Martin E. and
+Makowski, Lisa M. and
+Mantegna, Francesco and
+Marcantoni, Eleonora and
+Mart{\'\i}n-Buro, Mar{\'\i}a Carmen and
+Martinovici, Ana and
+Marzecova, Anna and
+Masina, Fabio and
+Mattingley, Jason B. and
+Mazzini, Sara and
+Medani, Takfarinas and
+Mei, Ting and
+Melcher, David and
+Meng, Qingqing and
+Menger, Nick S. and
+Mheich, Ahmad and
+Mitka, Milan and
+Monroy, Claire and
+Montefinese, Maria and
+Moreau, David and
+Moreau, Quentin and
+Mudrik, Liad and
+Mushtaq, Faisal and
+Myers, Nicholas E. and
+Naal-Ruiz, Norberto E. and
+Najafi, Foroogh and
+Ngo, Hong-Viet V. and
+Nie, Lu and
+Nilsson, Martin and
+Niso, Guiomar and
+Nyhus, Erika and
+Oerlemans, Joyce and
+Olivetti, Emanuele and
+Orpella, Joan and
+Ort, Eduard and
+Palenciano, Ana F. and
+Park, Kyoungeun and
+Past{\"o}tter, Bernhard and
+Patai, Zita and
+Paul, Katharina and
+Paulo, Artur Jos{\'e} M. and
+Pellegrino, Giovanni and
+Pereira Soares, Sergio M. and
+Pestilli, Franco and
+Pezzetta, Rachele and
+Pfabigan, Daniela M. and
+Plachti, Anna and
+Pomper, Ulrich and
+Popov, Tzvetan and
+Prado, Pavel and
+Protzner, Andrea B. and
+Prystauka, Yanina and
+Qian, Haoyue and
+Rabovsky, Milena and
+Ramos da Cruz, Janir and
+Rausch, Manuel and
+Rawal, Amit and
+Repplinger, Stefan and
+Rice, Danielle R. and
+Riecansky, Igor and
+Riha, Pavel and
+Rodrigues, Johannes and
+Roncaglia, M. Paula and
+Rose, Michael and
+R{\"o}sner, Marlene and
+Rothman, Jason and
+Ruch, Simon and
+Ruhnau, Philipp and
+Sarig Golan, Adi and
+Sarkar, Arkaprovo and
+Satish, Akul and
+Scarpazza, Cristina and
+Scheffel, Christoph and
+Schepers, Judith and
+Schettino, Antonio and
+Schmidt, Barbara and
+Schmidt, Fabian and
+Schubert, Anna-Lena and
+Schuler, Anna-Lisa and
+Scrivener, Catriona L. and
+Senderecka, Magdalena and
+Senftleben, Ulrike and
+Serin, Fatih and
+Serrano, J. Ignacio and
+Shabanpour, Mehran and
+Shamova, Veronika and
+Shareef, Idris and
+Sherbina, Dmitry and
+Short, Cassie Ann and
+Signoret, Carine and
+Sirius, Esa{\'u} V. P. and
+Skukies, Ren{\'e} and
+Soria-Frisch, Aureli and
+Soylu, Firat and
+Speer, Sebastian and
+Steinfath, Tim Paul and
+Steinhauser, Robert and
+Steinkamp, Simon R. and
+Stephani, Tilman and
+Strobel, Alexander and
+Strzelczyk, Dawid and
+Sun, Pheobe and
+Sun, Yanan and
+Surrey, Caroline and
+Syrov, Nikolay and
+Tagliaferri, Marco and
+Talwar, Siddharth and
+Tarantino, Vincenza and
+Tavano, Alessandro and
+Taylor, Jason R. and
+Thiele, Carsten and
+Thirugnanasambandam, Nivethida and
+Todorova, Lara and
+Tomi{\'c}, Aleksandra and
+Troche, Stefan J. and
+Tseng, Lin-Yuan and
+Tune, Sarah and
+Turan, G{\"o}zem and
+Turella, Luca and
+Ulloa, Jos{\'e} Luis and
+Valiadis, Michael and
+Vallesi, Antonino and
+van der Wijk, Gwen and
+van Vliet, Marijn and
+van Wingerden, Marijn and
+Varano, Enrico and
+Varma, Mohith M. and
+Vasconcelos, Margarida and
+Vergilova, Yoana and
+Vil{\`a}-Ball{\'o}, Adri{\`a} and
+Visalli, Antonino and
+Viviani, Giada and
+Vloeberghs, Robin and
+Wacker, Jan and
+Wang, Ya-Jie and
+Wang, Meng-Yun and
+Wang, Tianlu and
+Wei, Duan and
+Werkle-Bergner, Markus and
+White, David and
+Whitton, Simon and
+Wiebels, Kristina and
+Wiens, Stefan and
+Wittkamp, Christoph A. and
+Wolf, Maren-Isabel and
+Wong-Kee-You, Audrey and
+Woods, Will and
+Wurm, Franz and
+Wynn, Syanah C. and
+Xie, Jiushu and
+Xifra-Porxas, Alba and
+Xu, Weiyong and
+Yakovlev, Lev and
+Yang, Jinbiao and
+Yavuz, Mustafa and
+Youssofzadeh, Vahab and
+Yu, Rongjun and
+Zafar, Talha and
+Zago, Sara and
+Zakharov, Ilya and
+Zakrzewska, Marta Z. and
+Zhang, Juanli and
+Zhang, Zhen and
+Zhen, Shanshan and
+Zhou, Xinqi and
+Zhu, Judy D. and
+Zhu, Siyu and
+Zhuang, Qian and
+Zich, Catharina and
+Zomorrodi, Reza and
+Zugarramurdi, Camila and
+Navid, Muhammad S. and
+Puoliv{\"a}li, Tuomas and
+Senoussi, Mehdi and
+Yeaton, Jeremy D. and
+Aczel, Balazs and
+Cohen, Mike X. and
+Delorme, Arnaud and
+Dreber, Anna and
+Hipp, J{\"o}rg and
+Holzmeister, Felix and
+Johannesson, Magnus and
+Kovi{\'c}, Vanja and
+Oostenveld, Robert and
+Pavlov, Yuri G. and
+Pernet, Cyril and
+Poldrack, Russell A. and
+Puce, Aina and
+Schonberg, Tom and
+Schweinsberg, Martin and
+{\v{S}}o{\v{s}}ki{\'c}, An{\dj}ela and
+Szaszi, Barnabas and
+Uhlmann, Eric L. and
+Nilsonne, Gustav and
+Busch, Niko A.
+  },
+  year    = {2026},
+  journal = {MetaArXiv},
+  doi     = {10.31222/osf.io/wvx48_v1},
+  url     = {https://doi.org/10.31222/osf.io/wvx48_v1}
+}
